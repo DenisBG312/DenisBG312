@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denisbg312&label=Profile%20views&color=0e75b6&style=flat" alt="denisbg312" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@denis049839207" target="blank"><img src="https://img.shields.io/twitter/follow/@denis049839207?logo=twitter&style=for-the-badge" alt="@denis049839207" /></a> </p>
-
 - 🔭 I'm currently uploading **Homeworks from SoftUni and Personal Projects**
 
 - 👨‍💻 How to reach me **bgdenibg@gmail.com**
@@ -18,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.facebook.com/denis.nedkov.3/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="денис црънски" height="30" width="40" /></a>
+<a href="https://twitter.com/@denis049839207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@denis049839207" height="30" width="40" /></a>
+<a href="https://fb.com/denis.nedkov.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="денис црънски" height="30" width="40" /></a>
 <a href="https://instagram.com/denis.ts384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denis.ts384" height="30" width="40" /></a>
 </p>
 
