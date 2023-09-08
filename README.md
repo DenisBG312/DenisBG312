@@ -8,7 +8,7 @@
 
 - 👨‍💻 How to reach me **bgdenibg@gmail.com**
 
-- 📖 I'm currently learning **C# .NET for Full-Stack Developepr**
+- 📖 I'm currently learning **C# .NET for Full-Stack Web Developer**
 
 - 💬 Ask me about **C# ASP.NET, C# .NET**
 
