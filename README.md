@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Denis and I'm a Full-Stack .NET Developer from Ruse</h2>
+<h2 align="left">Hi 👋! My name is Denis and I'm a C# Developer from Ruse</h2>
 
 ###
 
